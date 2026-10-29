@@ -1,0 +1,3 @@
+# Laravel backend uses Composer dependencies (composer.json).
+# React frontend uses npm dependencies (package.json).
+# No Python dependencies currently required.
